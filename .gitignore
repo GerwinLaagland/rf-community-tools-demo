@@ -1,2 +1,6 @@
 .venv
-results/
+results
+
+log.html
+output.xml
+report.html

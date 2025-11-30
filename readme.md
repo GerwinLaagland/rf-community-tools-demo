@@ -83,12 +83,12 @@ From the project root, run:
 
 ```bash
 # Run all suites
-robot suites/
+robotcode -p random robot .
 
 # Or run one suite at a time
-robot suites/ChuckTechnicals.robot
-robot suites/NorrisComponents.robot
-robot suites/NorrisIntegration.robot
+robotcode -p dev robot suites/ChuckTechnicals.robot
+robotcode -p science robot suites/NorrisComponents.robot
+robotcode -p random robot suites/NorrisIntegration.robot
 ```
 
 # Credits
