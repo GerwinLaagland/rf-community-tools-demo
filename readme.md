@@ -92,4 +92,4 @@ robot suites/NorrisIntegration.robot
 ```
 
 # Credits
-This project is heavily inspired by a technical demo created by Stavroula Ventoura and first showcased at Athens Open‑conf.
+This project is heavily inspired by a technical demo created by Stavroula Ventoura which was first showcased at Athens Open‑conf. It has been repurposed with her assistance and permission.
