@@ -1,0 +1,14 @@
+default-profiles = ["dev"]
+python-path = ["./resources"]
+
+[profiles.dev]
+[profiles.dev.extend-variables]
+CATEGORY = "dev"
+
+[profiles.science]
+[profiles.science.extend-variables]
+CATEGORY = "science"
+
+[profiles.random]
+[profiles.random.extend-variables]
+CATEGORY = "random"

@@ -1,0 +1,7 @@
+robotcode[runner]
+robotframework
+robotframework-browser[bb]
+robotframework-databaselibrary
+robotframework-requests
+robotframework-robocop
+rpaframework==31.1.0

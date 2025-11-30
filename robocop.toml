@@ -1,0 +1,2 @@
+[tool.robocop.lint]
+ignore = ["no-suite-variable"]
