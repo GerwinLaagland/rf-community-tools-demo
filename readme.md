@@ -2,7 +2,7 @@
 
 A small, accessible demo project showing how Robot Framework, RobotCode, Robocop and community libraries (REST, Browser, Database, RPA) can be combined into a simple test automation setup.
 
-> This repository accompanies the talk **“Robot Framework: Accessible Automation with Community‑Driven Tools”** at FOSDEM 2026 (Testing and Continuous Delivery devroom).
+> This repository accompanies the talk **“Don’t Panic: A Robot Framework Guide to Accessible Automation”** at FOSDEM 2026 (Testing and Continuous Delivery devroom).
 
 ## What this project demonstrates
 
@@ -92,4 +92,4 @@ robotcode -p random robot suites/NorrisIntegration.robot
 ```
 
 # Credits
-This project is heavily inspired by a technical demo created by Stavroula Ventoura which was first showcased at Athens Open‑conf. It has been repurposed with her assistance and permission.
+This project is heavily inspired by a technical demo created by Stavroula Ventoura which was first showcased at Athens [Open‑Conf '25](https://open-conf.gr/). It has been repurposed with her assistance and permission.
