@@ -2,8 +2,6 @@
 
 A small, accessible demo project showing how Robot Framework, RobotCode, Robocop and community libraries (REST, Browser, Database, RPA) can be combined into a simple test automation setup.
 
-> This repository accompanies the talk **“Don’t Panic: A Robot Framework Guide to Accessible Automation”** at FOSDEM 2026 (Testing and Continuous Delivery devroom).
-
 ## What this project demonstrates
 
 This repo is meant as a practical, small‑scale example of:
